@@ -10,7 +10,7 @@
   "author": "Oketo Peters",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap4": "0.0.1-security",
     "express": "^4.17.1",
     "react": "^0.14.7",

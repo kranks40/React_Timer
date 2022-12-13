@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "bootstrap4": "0.0.1-security",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "react": "^0.14.7",
     "react-addons-test-utils": "^0.14.7",
     "react-dom": "^0.14.7",
